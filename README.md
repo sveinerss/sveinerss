@@ -7,7 +7,7 @@ A little about me...
 ```javascript
 const Svein = {
     pronouns: "He" | "Him",
-    code: ["Python", "R", "Java","SQL","Javascript"],
+    code: ["Ruby","Python", "R", "Java","SQL","Javascript"],
     interests: ["Data Science", "Analytics", "Tech", "Film", "Photography"],
     technologies: {
         databases: ["MySql"],
